@@ -1,0 +1,369 @@
+string
+link[rel=
+:i.crossOrigin===
+)throw t=String(e),Error(
+React.Children.only expected to receive a single React element child.
+act(...) is not supported in production builds of React.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+https://reactjs.org/docs/error-decoder.html?invariant=
+Minified React error #
+ for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+||typeof window.document>
+||typeof window.document.createElement>
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+httpEquiv
+http-equiv
+allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope
+tabIndex
+crossOrigin
+xlinkHref
+xlink:href
++n,r?e.setAttributeNS(r,t,n):e.setAttribute(t,n))))}var Ct=_f.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,Ci=Symbol.for(
+),In=Symbol.for(
+TracingMarker
+undefined
++o,s.call(this,o)}}),Object.defineProperty(e,t,{enumerable:n.enumerable}),{getValue:function(){return r},setValue:function(o){r=
+?t.checked!=null:t.value!=null}}function Bf(e,t){t=t.checked,t!=null&&El(e,
+?(n===0&&e.value===
+||e.value!=n)&&(e.value=
++n):e.value!==
++n&&(e.value=
+)&&xa(e,t.type,Qt(t.defaultValue)),t.checked==null&&t.defaultChecked!=null&&(e.defaultChecked=!!t.defaultChecked)}function Ju(e,t,n){if(t.hasOwnProperty(
++e._wrapperState.initialValue,n||t===e.value||(e.value=t),e.defaultValue=t}n=e.name,n!==
+),e.defaultChecked=!!e._wrapperState.initialChecked,n!==
+||cs(e.ownerDocument)!==e)&&(n==null?e.defaultValue=
++e._wrapperState.initialValue:e.defaultValue!==
++n&&(e.defaultValue=
++e[n].value),e[n].selected!==i&&(e[n].selected=i),i&&r&&(e[n].defaultSelected=!0)}else{for(n=
++n,n!==e.value&&(e.value=n),t.defaultValue==null&&e.defaultValue!==n&&(e.defaultValue=n)),r!=null&&(e.defaultValue=
+&&t!==null&&(e.value=t)}function $f(e){switch(e){case
+innerHTML
+Webkit
+mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit
+focusin
+pointerover
+gotpointercapture
+invalid
+pointercancel
+pointerdown
+pointerup
+ratechange
+textInput
+compositionstart
+compositionend
+compositionupdate
+beforeinput
+pointermove
+pointerout
+pointerenter
+pointerleave
+,MozPrintableKey:
+:String.fromCharCode(e)):e.type===
+CompositionEvent
+oninput
+contains
+webkit
+onPointerEnter
+onPointerLeave
+change click focusin focusout input keydown keyup selectionchange
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+onCompositionEnd
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+_reactListening
+lostpointercapture
+pointer
+onCompositionStart
+onCompositionUpdate
+in _t?_t.value:_t.textContent,Vn=!0)),P=ys(c,N),0<P.length&&(N=new uc(N,e,null,n,d),f.push({event:N,listeners:P}),C?N.data=C:(C=mp(n),C!==null&&(N.data=C)))),(C=Kg?Qg(e,n):Yg(e,n))&&(c=ys(c,
+||typeof t.dangerouslySetInnerHTML==
+&&t.dangerouslySetInnerHTML!==null&&t.dangerouslySetInnerHTML.__html!=null}var Ia=typeof setTimeout==
+&&t++}e=e.previousSibling}return null}var mr=Math.random().toString(36).slice(2),lt=
++n.toString(32)),t+=
++n.toString(32)+
+)if(a){for(o in a)!a.hasOwnProperty(o)||u&&u.hasOwnProperty(o)||(n||(n={}),n[o]=
+details
++a&&(s.suppressHydrationWarning!==!0&&Ii(r.textContent,a,e),i=[
+),e.innerHTML=
+:e._wrapperState={wasMultiple:!!r.multiple},i=X({},r,{value:void 0}),U(
+:r.value!=null&&e.setAttribute(
+ react-mount-point-unstable 
+input[name=
+,k)}catch(j){if(j instanceof DOMException&&j.name===
+,k),s&&u&&u({action:a,location:v.location,delta:0})}function x(b){let g=i.location.origin!==
+?i.location.origin:i.location.href,h=typeof b==
+must start with the combined path of all its parent routes.
+Index routes must not have child routes. Please remove 
+||!((a=s.path)!=null&&a.includes(
+?s:[s,u].join(
+:u)}function tx(e){e.sort((t,n)=>t.score!==n.score?n.score-t.score:ux(t.routesMeta.map(r=>r.childrenIndex),n.routesMeta.map(r=>r.childrenIndex)))}const nx=/^:\w+$/,rx=3,ix=2,sx=1,ox=10,ax=-2,id=e=>e===
+always follow a `/` in the pattern. To get rid of this warning, 
+encoding (
+)),e}}function hx(e,t){try{return decodeURIComponent(e)}catch(n){return yu(!1,
+ the string 
+ due to a bad percent encoding (
+&&n.push(i)}),n.length>1?n.join(
+ character in a manually specified 
+a string in <Link to=
+),u}const Ht=e=>e.join(
+&&typeof e.internal==
++e.statusText:e instanceof Error?e.message:JSON.stringify(e),n=e instanceof Error?e.stack:null,i={padding:
+React Router caught the following error during render
+pending
+&&typeof window.document<
+&&typeof window.document.createElement<
+&&Gx.test(c)&&(y=c,Hx))try{let h=new URL(window.location.href),m=c.startsWith(
+?j=s({isActive:h,isPending:m}):j=[s,h?
+:null].filter(Boolean).join(
+whileInView
+initial
+motionComponentSymbol
+polyline
+origin
+?t.transform(e):e,Xt=(e,t,n)=>Math.min(Math.max(n,e),t),Mn={test:e=>typeof e==
+).length===1,parse:parseFloat,transform:t=>`${t}${e}`}),Tt=ji(
+}`),e.tabIndex===void 0&&(e.onTap||e.onTapStart||e.whileTap)&&(r.tabIndex=0),r.style=i,r}const gv=new Set([
+values
+transformTemplate
+transformValues
+inherit
+onLayoutAnimationComplete
+onAnimationComplete
+onMeasureDragConstraints
+&&typeof e.values==
+keySplines
+limitingConeAngle
+tableValues
+gradientTransform
+,t),r=()=>{this.isPressing&&qo(
+,!0),r&&G.update(()=>r(t,n))}checkPressEnd(){return this.removeEndListeners(),this.isPressing=!1,this.node.getProps().whileTap&&this.node.animationState&&this.node.animationState.setActive(
+,this.startPointerPress,{passive:!(t.onTapStart||t.onPointerStart)}),r=yt(this.node.current,
+margin
+linear
+ease-in
+ease-in-out
++Jo.transform(t)+
++Jo.transform(n)+
++Ur(Br.transform(r))+
+),parse:p1,transform:gn.transform},Kn={test:Iu(
++dt.transform(Ur(t))+
++dt.transform(Ur(n))+
+},we={test:e=>gn.test(e)||ll.test(e)||Kn.test(e),parse:e=>gn.test(e)?gn.parse(e):Kn.test(e)?Kn.parse(e):ll.parse(e),transform:e=>ki(e)?e:e.hasOwnProperty(
+easeInOut
+damping
+finished
+running
+transform
+spring
+inertia
+zIndex
+AnimationComplete
+originX
+originY
+,c.point,x),this.updateAxis(
+animationComplete
+,c.pointerEvents=as(o.pointerEvents)||
+,c.transform=d?d(this.latestValues,
+),this.hasProjected&&!dn(this.latestValues)&&(v.transform=d?d({},
+&&navigator.userAgent.toLowerCase().includes(e),of=sf(
+)[t]),cf=(e,t)=>(n,{transform:r})=>{if(r===
+)?1:0))}),t.length&&e.render(),t}const fr={width:({x:e},{paddingLeft:t=
+,paddingRight:n=
+})=>e.max-e.min-parseFloat(t)-parseFloat(n),height:({y:e},{paddingTop:t=
+,paddingBottom:n=
+LayoutAnimationComplete
+&&r.indexOf(t)===n).join(
+}),l.jsxs(T.div,{initial:{y:30,opacity:0},whileInView:{y:0,opacity:1},transition:{duration:.6},viewport:{once:!0},className:
+,link:
+Mobile
+relative group cursor-pointer
+rounded-2xl object-cover aspect-video w-full transition-transform duration-500 group-hover:scale-110
+absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition rounded-2xl flex items-center justify-center
+fixed inset-0 bg-black/90 z-[999] flex items-center justify-center cursor-pointer
+w-full h-full object-contain rounded-t-2xl block cursor-default
+})]})]})})})]})},Ve={initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,ease:
+,Hr!==null&&Hr.disconnect(),us!==null&&(window.clearTimeout(us),us=null)}function mf(e){var t=[
+)),$u(),!0}return!1}function bj(e){window.setTimeout(function(){gf()===!1&&(Hr===null&&(Hr=new MutationObserver(gf)),Hr.observe(document,{attributes:!0,childList:!0,subtree:!0}),us=window.setTimeout(function(){$u()},e||1e4))},0)}function w0(e){return rr.forwardRef(function(t,n){var r=
+&&t.to.includes(
+).slice(1).join(
+)&&!(a.metaKey||a.altKey||a.ctrlKey||a.shiftKey)&&(v0=t.scroll||function(u){return t.smooth?u.scrollIntoView({behavior:
+}):u.scrollIntoView()},bj(t.timeout))}var o=jj(t,[
+/images/Final_hero.png
+,letterSpacing:
+,lineHeight:
+,children:r.value}),r.label]})]},r.label))}),l.jsxs(
+,initial:t.initial,animate:t.animated,transition:t.transition,children:l.jsxs(
+,initial:n.initial,animate:n.animated,transition:n.transition}),l.jsx(
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,ease:[.22,1,.36,1]},viewport:{once:!0,margin:
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:.15,ease:[.22,1,.36,1]},viewport:{once:!0,margin:
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.8},viewport:{once:!0},className:
+,children:Ej.map((e,t)=>l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:t*.1},viewport:{once:!0},className:
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7},viewport:{once:!0},children:[l.jsx(
+,children:Aj.map((e,t)=>l.jsxs(T.div,{initial:{opacity:0,x:-20},whileInView:{opacity:1,x:0},transition:{duration:.5,delay:t*.1},viewport:{once:!0},className:
+,{className:`flex items-center justify-center w-14 h-14 rounded-full shrink-0\r
+                  border-2 border-primary bg-black/50 shadow-lg shadow-primary/40`,children:e.icon}),l.jsxs(
+,children:e.desc})]})]},e.title))})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7,delay:.15},viewport:{once:!0},className:
+,{className:`flex items-center justify-center w-14 h-14 rounded-full\r
+                border-2 border-primary text-xl font-bold text-primary bg-primary/10 shrink-0`,children:
+})]})]})})]})]})]}),Lj={hidden:{},show:{transition:{staggerChildren:.15,delayChildren:.2}}},Gi={hidden:{opacity:0,y:30},show:{opacity:1,y:0,transition:{duration:.6,ease:[.22,1,.36,1]}}},_j=[{icon:Bu,value:
+,label:`Years
+Experience`},{icon:f0,value:
+,label:`Projects
+Delivered`},{icon:oj,value:
+,label:`Happy
+Clients`},{icon:Vk,value:
+,children:[l.jsx(T.div,{initial:{opacity:0,x:-30},whileInView:{opacity:1,x:0},transition:{duration:.8,ease:[.22,1,.36,1]},viewport:{once:!0},className:
+})}),l.jsx(T.div,{variants:Lj,initial:
+,whileInView:
+,children:e.value}),l.jsx(
+,includes:[
+Static Website (Home, About, Services, Contact)
+Mobile Responsive Design
+PWA Install Option
+Contact Form
+1 Year Hosting Included
+Business PWA
+Best for: Growing businesses
+Dynamic Website
+OTP Login
+PWA Install
+Firebase Database Integration
+Authentication (Login / Admin)
+Best for: Serious / revenue businesses
+Full Admin Dashboard
+Payment Gateway Integration
+Booking / Order System
+API Integrations
+Hosting + Free 2 Months Maintenance
+absolute inset-0 bg-cover bg-center bg-no-repeat
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:
+,children:e.includes.map(r=>l.jsxs(
+,className:`w-full inline-block text-center py-3.5 rounded-2xl font-semibold text-sm transition-all duration-300 ${e.btnClass}`,children:
+Mobile App
+One solution everywhere
+Comparison
+Can customers install it like an app?
+Yes. When customers open the website on their mobile browser, they will see an 
+ option. Once installed, it works exactly like a mobile app with its own icon on the home screen.
+What features can be included?
+Business information
+Product or service listing
+Contact and WhatsApp button
+Booking or enquiry form
+What services does Merlux Software Solutions provide?
+Business website development
+PWA mobile app experience
+Hosting and domain support
+Maintenance and updates
+Services
+Our basic package starts from ₹19,999 — includes Website + PWA + Hosting. Pricing depends on the features required.
+Website + PWA + Hosting starting from ₹19,999
+Pricing
+Usually 5–10 working days, depending on the project complexity and the features included in your package.
+Timeline
+Will it work on Android and iPhone?
+Yes. A PWA works seamlessly on Android, iPhone, tablets, and desktop browsers — one solution that works everywhere without separate apps.
+Compatibility
+Contact us for a free demo or consultation. We are happy to guide you through the right package for your business needs.
+Contact
+bg-pink-500/10 text-pink-400
+flex items-center gap-4 flex-1 min-w-0
+text-xs font-bold text-neutral-600 w-5 shrink-0
+,{className:`hidden sm:inline-block text-[10px] font-semibold px-2.5 py-1 rounded-full shrink-0 ${Fj[e.tag]??
+,children:Oj.map((r,i)=>l.jsx(zj,{item:r,index:i,isOpen:e===i,onToggle:()=>n(i)},i))}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7,delay:.2},viewport:{once:!0},className:
+flex flex-col sm:flex-row items-center gap-4 shrink-0
+2 Business Emails
+Business
+1 Website
+10 Business Emails
+Best for: Serious / revenue-generating businesses
+Unlimited Emails
+Free Static Website Setup
+,children:e.includes.map((n,r)=>l.jsxs(
+,className:`w-full inline-block text-center py-3.5 rounded-2xl font-semibold text-sm transition-all duration-300
+                      ${e.highlight?
+brand-instagram
+IconBrandInstagram
+brand-linkedin
+IconBrandLinkedin
+device-mobile-check
+IconDeviceMobileCheck
+device-mobile
+IconDeviceMobile
+fixed inset-0 bg-black z-40
+cursor-pointer w-7 h-7 text-gray-700
+About Us
+/about
+Technologies
+/technologies
+/contact
+,className:`object-contain transition-all duration-500
+              ${n?
+font-black tracking-widest text-xs sm:text-sm md:text-lg bg-gradient-to-r from-[#3cff00] via-[#22c55e] to-[#facc15] bg-clip-text text-transparent group-hover:brightness-125 transition
+MERLUX SOFTWARE SOLUTIONS
+inline-flex items-center gap-2 bg-primary hover:text-black text-white px-5 py-2.5 rounded-full font-semibold text-sm transition-all duration-200 shadow-lg shadow-primary/30 group
+w-4 h-4 transition-transform duration-200 group-hover:translate-x-1
+lg:hidden cursor-pointer w-8 h-8 text-white
+We are focused on helping more Indian startups and SMEs go digital — with affordable, world-class web, mobile, and PWA solutions.
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8,ease:[.22,1,.36,1]},viewport:{once:!0},className:
+,loading:
+,children:yb.map((t,n)=>l.jsxs(T.div,{initial:{opacity:0,x:-30},whileInView:{opacity:1,x:0},transition:{duration:.5,delay:n*.08},viewport:{once:!0},className:
+text-[10px] font-bold px-2 py-0.5 rounded-full bg-primary text-white uppercase tracking-wider
+})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:.12},viewport:{once:!0},className:
+re Going
+s build something
+d love to hear about it.
+inline-flex items-center gap-2 bg-primary hover:text-black text-white px-8 py-4 rounded-xl font-semibold transition-all duration-200 shadow-lg shadow-primary/20
+Frontend & Mobile
+Cloud & DevOps
+Google Cloud
+Homepage / Technologies
+Progressive Web Apps (PWA)
+Cloud deployments on AWS & Google Cloud
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+,children:[l.jsxs(T.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+Cloud-native architectures
+Secure & reliable solutions
+Web, Mobile & PWA
+,children:[l.jsx(vf,{...Ki[0],index:0}),l.jsx(vf,{...Ki[1],index:1})]}),l.jsx(
+,children:[Ki[2],Ki[3]].map((t,n)=>l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:n*.1},viewport:{once:!0},className:
+,{className:`w-3 h-3 rounded-full shrink-0 ${jl[t.color].dot}`}),l.jsx(
+s talk about the right technology stack for your business. We
+}],Qi=({icon:e,title:t,value:n,href:r})=>l.jsxs(
+,children:n})]})]}),jb=({icon:e,name:t,description:n,link:r})=>l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.5},viewport:{once:!0},whileHover:{scale:1.02,boxShadow:
+ll reply within 24 hours.
+text-primary text-sm hover:underline mt-2
+,{value:
+}),l.jsxs(T.div,{initial:e.initial,animate:e.animated,transition:e.transition,className:
+d love to hear from you. Our team in Nagercoil & Chennai is ready to help you build something that scales.
+mailto:contact@merluxsolutions.com
+inline-flex items-center gap-2 px-6 py-3 bg-primary hover:text-black text-white rounded-xl font-semibold text-sm transition-all duration-200 group
+Email Now
+https://wa.me/918760816813
+inline-flex items-center gap-2 px-6 py-3 bg-green-500 hover:text-black text-white rounded-xl font-semibold text-sm transition-all duration-200
+/images/about-us.jpg
+Merlux team
+,children:[l.jsx(T.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:l.jsx(bb,{})}),l.jsx(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},className:
+Where to find us
+Nagercoil & Chennai, Tamil Nadu, India
+Write email
+contact@merluxsolutions.com
+Business hours
+,initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.5,delay:n*.1},viewport:{once:!0},whileHover:{y:-4},className:
+,{className:`shrink-0 w-9 h-9 rounded-full flex items-center justify-center transition-colors duration-150
+          ${n?
+,{href:`mailto:contact@merluxsolutions.com?subject=Application for ${e.title}`,className:
+,e.title]})]})]})]})]})},Pb=()=>l.jsxs(T.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.5},viewport:{once:!0},className:
+t have any active positions at the moment, but we are always growing. Drop us your resume and we
+}),l.jsxs(T.section,{initial:e.initial,animate:e.animated,transition:e.transition,className:
+re Hiring
+ll fit right in.
+Merlux?
+,children:ua.map((t,n)=>l.jsx(Cb,{job:t,index:n},t.id))}):l.jsx(Pb,{})]}),ua.length>0&&l.jsxs(T.div,{...Ve,className:
+Mobile Applications
+Cloud & Backend
+Maintenance & Support
+,r),()=>window.removeEventListener(
+instant

@@ -1,0 +1,1532 @@
+string
+default
+Module
+modulepreload
+link[rel=
+)for(const o of s.addedNodes)o.tagName===
+&&o.rel===
+?s.credentials=
+:i.crossOrigin===
+:s.credentials=
+react.element
+react.portal
+react.fragment
+react.strict_mode
+react.profiler
+react.provider
+react.context
+react.forward_ref
+react.suspense
+react.memo
+react.lazy
+object
+@@iterator
+function
+setState(...): takes an object of state variables to update or a function which returns an object of state variables.
+setState
+forceUpdate
+&&e!==null&&e.key!=null?D0(
+||s===
+:switch(e.$$typeof){case hi:case N0:o=!0}}if(o)return o=e,i=i(o),e=r===
++bo(o,0):r,Ku(i)?(n=
+,e!=null&&(n=e.replace(Qu,
+),Yi(i,t,n,
+,function(c){return c})):i!=null&&(Cl(i)&&(i=V0(i,n+(!i.key||o&&o.key===i.key?
++i.key).replace(Qu,
+)throw t=String(e),Error(
++(t===
+object with keys {
+React.Children.only expected to receive a single React element child.
+React.cloneElement(...): The argument must be a React element, but you passed 
+act(...) is not supported in production builds of React.
+18.2.0
++n),t.key!==void 0&&(s=
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+number
+https://reactjs.org/docs/error-decoder.html?invariant=
+&args[]=
+Minified React error #
+ for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Capture
+||typeof window.document>
+||typeof window.document.createElement>
+symbol
+boolean
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+accept-charset
+className
+htmlFor
+httpEquiv
+http-equiv
+contentEditable
+draggable
+spellCheck
+autoReverse
+externalResourcesRequired
+focusable
+preserveAlpha
+allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope
+multiple
+selected
+capture
+download
+rowSpan
+.split(
+xml:lang
+xml:space
+tabIndex
+crossOrigin
+xlinkHref
+xlink:href
+action
+formAction
+&&t[0]!==
+||t[1]!==
+&&t[1]!==
+)&&(q0(t,n,i,r)&&(n=null),r||i===null?Y0(t)&&(n===null?e.removeAttribute(t):e.setAttribute(t,
++n)):i.mustUseProperty?e[i.propertyName]=n===null?i.type===3?!1:
+:n:(t=i.attributeName,r=i.attributeNamespace,n===null?e.removeAttribute(t):(i=i.type,n=i===3||i===4&&n===!0?
++n,r?e.setAttributeNS(r,t,n):e.setAttribute(t,n))))}var Ct=_f.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED,Ci=Symbol.for(
+),_n=Symbol.for(
+),In=Symbol.for(
+),Ml=Symbol.for(
+),fa=Symbol.for(
+),Vf=Symbol.for(
+),Df=Symbol.for(
+),Al=Symbol.for(
+),pa=Symbol.for(
+),ha=Symbol.for(
+),Rl=Symbol.for(
+),Et=Symbol.for(
+),Of=Symbol.for(
+?null:(e=qu&&e[qu]||e[
+],typeof e==
+,{set:function(){throw Error()}}),typeof Reflect==
+&&Reflect.construct){try{Reflect.construct(t,[])}catch(c){var r=c}Reflect.construct(e,[],t)}else{try{t.call()}catch(c){r=c}e.call(t.prototype)}else{try{throw Error()}catch(c){r=c}e()}}catch(c){if(c&&r&&typeof c.stack==
+<anonymous>
+)?Pr(e):
+}if(typeof e==
+)switch(e.$$typeof){case Df:return(e.displayName||
+.Consumer
+Context
+.Provider
+,e=e!==
+ForwardRef(
+ForwardRef
+DehydratedFragment
+,t.displayName||(e!==
+Fragment
+Portal
+StrictMode
+Offscreen
+Profiler
+Suspense
+SuspenseList
+TracingMarker
+undefined
+&&(t===
+||t===
+)}function eg(e){var t=Ff(e)?
+&&typeof n.get==
+&&typeof n.set==
++o,s.call(this,o)}}),Object.defineProperty(e,t,{enumerable:n.enumerable}),{getValue:function(){return r},setValue:function(o){r=
+?document:void 0),typeof e>
+||t.type===
+?t.checked!=null:t.value!=null}}function Bf(e,t){t=t.checked,t!=null&&El(e,
+?(n===0&&e.value===
+||e.value!=n)&&(e.value=
++n):e.value!==
++n&&(e.value=
+||r===
+){e.removeAttribute(
+)?xa(e,t.type,n):t.hasOwnProperty(
+)&&xa(e,t.type,Qt(t.defaultValue)),t.checked==null&&t.defaultChecked!=null&&(e.defaultChecked=!!t.defaultChecked)}function Ju(e,t,n){if(t.hasOwnProperty(
+)||t.hasOwnProperty(
+&&r!==
++e._wrapperState.initialValue,n||t===e.value||(e.value=t),e.defaultValue=t}n=e.name,n!==
+&&(e.name=
+),e.defaultChecked=!!e._wrapperState.initialChecked,n!==
+&&(e.name=n)}function xa(e,t,n){(t!==
+||cs(e.ownerDocument)!==e)&&(n==null?e.defaultValue=
++e._wrapperState.initialValue:e.defaultValue!==
++n&&(e.defaultValue=
++e[n].value),e[n].selected!==i&&(e[n].selected=i),i&&r&&(e[n].defaultSelected=!0)}else{for(n=
++n,n!==e.value&&(e.value=n),t.defaultValue==null&&e.defaultValue!==n&&(e.defaultValue=n)),r!=null&&(e.defaultValue=
+&&t!==null&&(e.value=t)}function $f(e){switch(e){case
+:return
+}}function wa(e,t){return e==null||e===
+?$f(t):e===
+&&t===
+&&MSApp.execUnsafeLocalFunction?function(t,n,r,i){MSApp.execUnsafeLocalFunction(function(){return e(t,n,r,i)})}:e}(function(e,t){if(e.namespaceURI!==
+innerHTML
+</svg>
+Webkit
+:n||typeof t!=
+||t===0||Rr.hasOwnProperty(e)&&Rr[e]?(
++t).trim():t+
+__html
+)===-1)return typeof t.is==
+onClick
+onClickCapture
+onDoubleClick
+onDoubleClickCapture
+onMouseDown
+onMouseDownCapture
+onMouseMove
+onMouseMoveCapture
+onMouseUp
+onMouseUpCapture
+onMouseEnter
+button
+select
+textarea
+passive
+mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit
+focusin
+dragenter
+mouseover
+pointerover
+gotpointercapture
+cancel
+contextmenu
+auxclick
+dblclick
+dragend
+dragstart
+focusout
+invalid
+keydown
+keypress
+mousedown
+mouseup
+pointercancel
+pointerdown
+pointerup
+ratechange
+resize
+seeked
+submit
+touchcancel
+touchend
+touchstart
+volumechange
+change
+selectionchange
+textInput
+compositionstart
+compositionend
+compositionupdate
+beforeblur
+afterblur
+beforeinput
+fullscreenchange
+hashchange
+popstate
+selectstart
+dragexit
+dragleave
+dragover
+mousemove
+mouseout
+pointermove
+pointerout
+scroll
+toggle
+touchmove
+mouseenter
+mouseleave
+pointerenter
+pointerleave
+message
+charCode
+unknown
+movementX
+movementY
+clipboardData
+Escape
+,Left:
+,Right:
+,Down:
+,Menu:
+,Apps:
+,Scroll:
+,MozPrintableKey:
+},_g={8:
+},Ig={Alt:
+,Control:
+,Meta:
+,Shift:
+)return t}return e.type===
+?(e=Ji(e),e===13?
+:String.fromCharCode(e)):e.type===
+||e.type===
+?_g[e.keyCode]||
+},code:0,location:0,ctrlKey:0,shiftKey:0,altKey:0,metaKey:0,repeat:0,locale:0,getModifierState:zl,charCode:function(e){return e.type===
+?Ji(e):0},keyCode:function(e){return e.type===
+?e.keyCode:0},which:function(e){return e.type===
+?Ji(e):e.type===
+deltaX
+wheelDeltaX
+deltaY
+wheelDeltaY
+wheelDelta
+CompositionEvent
+documentMode
+TextEvent
+?!!Xg[e.type]:t===
+}function gp(e,t,n,r){Kf(r),t=ys(t,
+),0<t.length&&(n=new Fl(
+oninput
+onpropertychange
+contains
+search
+password
+selectionStart
+onSelect
+webkit
+Animation
+AnimationEnd
+AnimationIteration
+AnimationStart
+Transition
+TransitionEnd
+AnimationEvent
+TransitionEvent
+animationend
+animationiteration
+animationstart
+transitionend
++ay)}Zt(jp,
+onFocus
+onBlur
+onTransitionEnd
+onMouseLeave
+onPointerEnter
+onPointerLeave
+onChange
+change click focusin focusout input keydown keyup selectionchange
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+onCompositionEnd
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+),ly=new Set(
+__bubble
+_reactListening
+lostpointercapture
+pointer
+checkbox
+onCompositionStart
+onCompositionUpdate
+&&(Vn||N!==
+&&Vn&&(C=fp()):(_t=d,Ol=
+in _t?_t.value:_t.textContent,Vn=!0)),P=ys(c,N),0<P.length&&(N=new uc(N,e,null,n,d),f.push({event:N,listeners:P}),C?N.data=C:(C=mp(n),C!==null&&(N.data=C)))),(C=Kg?Qg(e,n):Yg(e,n))&&(c=ys(c,
+),0<c.length&&(d=new uc(
++e).replace(uy,`
+`).replace(cy,
+||e===
+||typeof t.children==
+||typeof t.dangerouslySetInnerHTML==
+&&t.dangerouslySetInnerHTML!==null&&t.dangerouslySetInnerHTML.__html!=null}var Ia=typeof setTimeout==
+?setTimeout:void 0,dy=typeof clearTimeout==
+?clearTimeout:void 0,bc=typeof Promise==
+?Promise:void 0,fy=typeof queueMicrotask==
+?queueMicrotask:typeof bc<
+&&n!==
+||n===
+&&t++}e=e.previousSibling}return null}var mr=Math.random().toString(36).slice(2),lt=
++mr,ni=
++mr,jt=
++mr,Va=
++mr,hy=
++mr,my=
+Unknown
+DELETED
+||typeof h==
+)return h=Ko(
+||typeof m==
+)return j!==null?null:a(g,h,
+&&k!==
+||typeof k==
+)return g=g.get(m)||null,a(h,g,
+||n.data===
++n,n=si++,0<n&&(t+=
++n.toString(32)),t+=
+}else n=xy++,t=
++n.toString(32)+
+hidden
+?t.lanes=8:t.lanes=1073741824:t.lanes=1,null):(o=r.children,e=r.fallback,s?(r=t.mode,s=t.child,o={mode:
+visible
+forwards
+backwards
+together
+)}else c!==
+&&c!==
+)if(a){for(o in a)!a.hasOwnProperty(o)||u&&u.hasOwnProperty(o)||(n||(n={}),n[o]=
+?(u=u?u.__html:void 0,a=a?a.__html:void 0,u!=null&&a!==u&&(s=s||[]).push(c,u)):c===
+?typeof u!=
+&&typeof u!=
+||(s=s||[]).push(c,
++u):c!==
+&&(Gr.hasOwnProperty(c)?(u!=null&&c===
+,e),s||a===u||(s=[])):(s=s||[]).push(c,u))}n&&(s=s||[]).push(
+dialog
+iframe
+source
+details
+children
++a&&(s.suppressHydrationWarning!==!0&&Ii(r.textContent,a,e),i=[
++a]):Gr.hasOwnProperty(o)&&a!=null&&o===
+,r)}switch(n){case
+&&(r.onclick=xs)}r=i,t.updateQueue=r,r!==null&&(t.flags|=4)}else{o=i.nodeType===9?i:i.ownerDocument,e===
+&&(e=$f(n)),e===
+?(e=o.createElement(
+),e.innerHTML=
+,e=e.removeChild(e.firstChild)):typeof r.is==
+?e=o.createElement(n,{is:r.is}):(e=o.createElement(n),n===
+,e),U(
+:Zu(e,r),i=ga(e,r),U(
+:e._wrapperState={wasMultiple:!!r.multiple},i=X({},r,{value:void 0}),U(
+:ec(e,r),i=va(e,r),U(
+?Gf(e,u):s===
+?(u=u?u.__html:void 0,u!=null&&Wf(e,u)):s===
+?typeof u==
+?(n!==
+||u!==
+)&&Kr(e,u):typeof u==
+&&Kr(e,
++u):s!==
+&&s!==
+&&(Gr.hasOwnProperty(s)?u!=null&&s===
+,e):u!=null&&El(e,s,u,o))}switch(n){case
+:r.value!=null&&e.setAttribute(
+&&(e.onclick=xs)}switch(n){case
+&&s.type===
+?Gf(i,f):d===
+?Wf(i,f):d===
+?Kr(i,f):El(i,d,f,c)}switch(a){case
+display
+important
+ react-mount-point-unstable 
+input[name=
+,rendererPackageName:
+18.2.0-next-9e3b772b8-20220608
+||typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.checkDCE!=
+REPLACE
+,{pathname:s,search:o,hash:a},i.state&&i.state.usr||null,i.state&&i.state.key||
+)}function n(r,i){return typeof i==
+?i:_s(i)}return Jy(t,n,null,e)}function se(e,t){if(e===!1||e===null||typeof e>
+)throw new Error(t)}function yu(e,t){if(!e){typeof console<
+?e:e.pathname,search:
+,hash:
+},typeof t==
+?gr(t):t,{state:n,key:t&&t.key||r||Zy()})}function _s(e){let{pathname:t=
+,search:n=
+,hash:r=
+&&(t+=n.charAt(0)===
++n),r&&r!==
+&&(t+=r.charAt(0)===
+,k)}catch(j){if(j instanceof DOMException&&j.name===
+,k),s&&u&&u({action:a,location:v.location,delta:0})}function x(b){let g=i.location.origin!==
+?i.location.origin:i.location.href,h=typeof b==
++h),new URL(h,g)}let v={get action(){return a},get location(){return e(i,o)},listen(b){if(u)throw new Error(
+,e.deferred=
+,e.redirect=
+,e.error=
+?gr(t):t,i=xu(r.pathname||
+)&&(se(u.relativePath.startsWith(r),
++u.relativePath+
+ nested under path 
+ is not valid. An absolute child route path 
+must start with the combined path of all its parent routes.
+Index routes must not have child routes. Please remove 
+all child routes from route path 
+||!((a=s.path)!=null&&a.includes(
+),s=n.replace(/\?$/,
+?s:[s,u].join(
+))),i&&a.push(...o),a.map(u=>e.startsWith(
+)&&u===
+:u)}function tx(e){e.sort((t,n)=>t.score!==n.score?n.score-t.score:ux(t.routesMeta.map(r=>r.childrenIndex),n.routesMeta.map(r=>r.childrenIndex)))}const nx=/^:\w+$/,rx=3,ix=2,sx=1,ox=10,ax=-2,id=e=>e===
+?sx:ox),r)}function ux(e,t){return e.length===t.length&&e.slice(0,-1).every((r,i)=>r===t[i])?e[e.length-1]-t[t.length-1]:0}function cx(e,t){let{routesMeta:n}=e,r={},i=
+?t:t.slice(i.length)||
+&&(i=Ht([i,d.pathnameBase]))}return s}function dx(e,t){typeof e==
+){let p=a[f]||
+)}return c[d]=hx(a[f]||
+,d),c},{}),pathname:s,pathnameBase:o,pattern:e}}function fx(e,t,n){t===void 0&&(t=!1),n===void 0&&(n=!0),yu(e===
+||!e.endsWith(
+)||e.endsWith(
+Route path 
+ will be treated as if it were 
++e.replace(/\*$/,
+ because the `*` character must 
+always follow a `/` in the pattern. To get rid of this warning, 
+please change the route path to 
++e.replace(/\/*\*?$/,
+).replace(/^\/*/,
+).replace(/[\\.*+^$?{}|()[\]]/g,
+).replace(/\/:(\w+)/g,(o,a)=>(r.push(a),
+)?(r.push(
+),i+=e===
+(?:\\/(.+)|\\/*)$
+&&e!==
+&&(i+=
+),[new RegExp(i,t?void 0:
+),r]}function px(e){try{return decodeURI(e)}catch(t){return yu(!1,
+ could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent 
+encoding (
+)),e}}function hx(e,t){try{return decodeURIComponent(e)}catch(n){return yu(!1,
+ will not be decoded because
+ the string 
+ is a malformed URL segment. This is probably
+ due to a bad percent encoding (
+)),e}}function xu(e,t){if(t===
+?null:e.slice(n)||
+}function mx(e,t){t===void 0&&(t=
+,hash:i=
+}=typeof e==
+)?n:gx(n,t):t,search:xx(r),hash:vx(i)}}function gx(e,t){let n=t.replace(/\/+$/,
+).split(
+).forEach(i=>{i===
+?n.length>1&&n.pop():i!==
+&&n.push(i)}),n.length>1?n.join(
+}function Yo(e,t,n,r){return
+ character in a manually specified 
+` field [
+].  Please separate it out to the 
+` field. Alternatively you may provide the full path as 
+a string in <Link to=
+> and the router will parse it for you.
+pathname
+||i.pathname===
+)){let p=o.split(
+)}a=f>=0?t[f]:
+}let u=mx(i,a),c=o&&o!==
+&&o.endsWith(
+),d=(s||o===
+)&&n.endsWith(
+)&&(c||d)&&(u.pathname+=
+),u}const Ht=e=>e.join(
+).replace(/\/\/+/g,
+),yx=e=>e.replace(/\/+$/,
+),xx=e=>!e||e===
+:e.startsWith(
++e,vx=e=>!e||e===
+&&typeof e.statusText==
+&&typeof e.internal==
+delete
+&&(u=o===
+&&(d.pathname=d.pathname===
+,p=a===
+?f:f.slice(a.length)||
+,y=ex(e,{pathname:p}),x=Ax(y&&y.map(v=>Object.assign({},v,{params:Object.assign({},o,v.params),pathname:Ht([a,r.encodeLocation?r.encodeLocation(v.pathname).pathname:v.pathname]),pathnameBase:v.pathnameBase===
+,search:
+,state:null,key:
+},c),navigationType:Vt.Pop}},x):x}function Px(){let e=Ix(),t=wx(e)?e.status+
++e.statusText:e instanceof Error?e.message:JSON.stringify(e),n=e instanceof Error?e.stack:null,i={padding:
+,backgroundColor:
+,null,
+),w.createElement(
+,{style:{fontStyle:
+}},t),n?w.createElement(
+React Router caught the following error during render
+useBlocker
+useRevalidator
+useNavigate
+useLoaderData
+useActionData
+useRouteError
+useNavigation
+useRouteLoaderData
+useMatches
+useRouteId
+,search:d=
+,hash:f=
+,state:p=null,key:y=
+pending
+success
+relative
+reloadDocument
+replace
+target
+preventScrollReset
+aria-current
+caseSensitive
+startTransition
+&&typeof window.document<
+&&typeof window.document.createElement<
+&&Gx.test(c)&&(y=c,Hx))try{let h=new URL(window.location.href),m=c.startsWith(
+,Vs({},f,{href:y||v,onClick:x||s?r:g,ref:n,target:u}))}),Wh=w.forwardRef(function(t,n){let{
+,caseSensitive:i=!1,className:s=
+,m=g!=null&&(g===v||!o&&g.startsWith(v)&&g.charAt(v.length)===
+?j=s({isActive:h,isPending:m}):j=[s,h?
+:null,m?
+:null].filter(Boolean).join(
+:k,className:j,ref:n,style:P,to:u}),typeof c==
+,e.UseSubmit=
+,e.UseSubmitFetcher=
+,e.UseFetcher=
+,e.UseScrollRestoration=
+current
+animate
+whileInView
+whileFocus
+whileHover
+whileTap
+whileDrag
+initial
+):e}const cd={animation:[
+variants
+dragControls
+onHoverStart
+onHoverEnd
+onTapStart
+onTapCancel
+onPanStart
+onPanSessionStart
+onPanEnd
+onViewportEnter
+onViewportLeave
+layout
+layoutId
+motionComponentSymbol
++e:e}function nv(e){function t(r,i={}){return ev(e(r,i))}if(typeof Proxy>
+circle
+ellipse
+filter
+marker
+metadata
+pattern
+polygon
+polyline
+switch
+translateX
+translateY
+translateZ
+scaleX
+scaleY
+rotate
+rotateX
+rotateY
+rotateZ
+origin
+opacity
+perspective
+),s=s.trim(),i?s=i(e,r?
+:s):n&&r&&(s=
+),s}const Xh=e=>t=>typeof t==
+&&t.startsWith(e),qh=Xh(
+),ol=Xh(
+),lv=/var\s*\(\s*--[\w-]+(\s*,\s*(?:(?:[^)(]|\((?:[^)(]+|\([^)(]*\))*\))*)+)?\s*\)/g,uv=(e,t)=>t&&typeof e==
+?t.transform(e):e,Xt=(e,t,n)=>Math.min(Math.max(n,e),t),Mn={test:e=>typeof e==
+).length===1,parse:parseFloat,transform:t=>`${t}${e}`}),Tt=ji(
+),dt=ji(
+),A=ji(
+),dv=ji(
+),fv=ji(
+}`),e.tabIndex===void 0&&(e.onTap||e.onTapStart||e.whileTap)&&(r.tabIndex=0),r.style=i,r}const gv=new Set([
+values
+transition
+transformTemplate
+transformValues
+custom
+inherit
+onLayoutAnimationStart
+onLayoutAnimationComplete
+onLayoutMeasure
+onBeforeLayoutMeasure
+onAnimationStart
+onAnimationComplete
+onUpdate
+onDragStart
+onDrag
+onDragEnd
+onMeasureDragConstraints
+onDirectionLock
+onDragTransitionEnd
+_dragX
+_dragY
+ignoreStrict
+viewport
+)?!Fs(t):e(t))}try{yv(require(
+&&typeof e.values==
+||(tm(i)||n===!0&&Fs(i)||!t&&!Fs(i)||e.draggable&&i.startsWith(
+,array:
+},kv={offset:
+baseFrequency
+diffuseConstant
+kernelMatrix
+kernelUnitLength
+keySplines
+keyTimes
+limitingConeAngle
+markerHeight
+markerWidth
+numOctaves
+targetX
+targetY
+surfaceScale
+specularConstant
+specularExponent
+stdDeviation
+tableValues
+viewBox
+gradientTransform
+pathLength
+startOffset
+textLength
+lengthAdjust
+],y:e[t+
+),md=cm(
+prepare
+update
+preRender
+render
+postRender
+onHover
+:focus-visible
+,o),qo(
+,(a,u)=>{this.startPress(a,u)})},n=yt(this.node.current,
+,t),r=()=>{this.isPressing&&qo(
+,(s,o)=>this.cancelPress(s,o))},i=yt(this.node.current,
+,!0),r&&G.update(()=>r(t,n))}checkPressEnd(){return this.removeEndListeners(),this.isPressing=!1,this.node.getProps().whileTap&&this.node.animationState&&this.node.animationState.setActive(
+,this.startPointerPress,{passive:!(t.onTapStart||t.onPointerStart)}),r=yt(this.node.current,
+margin
+framerAppearId
+linear
+ease-in
+ease-out
+ease-in-out
+reverse
+alternate
+normal
++Jo.transform(t)+
++Jo.transform(n)+
++Ur(Br.transform(r))+
+),parse:p1,transform:gn.transform},Kn={test:Iu(
+saturation
+lightness
++dt.transform(Ur(t))+
++dt.transform(Ur(n))+
+},we={test:e=>gn.test(e)||ll.test(e)||Kn.test(e),parse:e=>gn.test(e)?gn.parse(e):Kn.test(e)?Kn.parse(e):ll.parse(e),transform:e=>ki(e)?e:e.hasOwnProperty(
+Colors
+Numbers
+var(--
+easeInOut
+duration
+bounce
+stiffness
+damping
+keyframes
+mirror
+finished
+running
+paused
+clipPath
+transform
+backgroundColor
+spring
+inertia
+zIndex
+)&&!t.startsWith(
+)),q1=new Set([
+contrast
+saturate
+&&s[c]!==
+easeOut
+10.13.1
+willChange
+beforeChildren
+AnimationComplete
+bottom
+contents
+originX
+originY
+,c.point,x),this.updateAxis(
+measure
+didUpdate
+:Math.abs(e.x)>t&&(n=
+animationComplete
+borderTopLeftRadius
+borderTopRightRadius
+borderBottomLeftRadius
+borderBottomRightRadius
+TopLeft
+TopRight
+BottomLeft
+BottomRight
+,r,t,n)),r.animation}const Zd=[
+snapshot
+):void 0,this.updateSnapshot(),o&&this.notifyListeners(
+LayoutMeasure
+projectionUpdate
+animationStart
+,c.pointerEvents=as(o.pointerEvents)||
+,c.transform=d?d(this.latestValues,
+),this.hasProjected&&!dn(this.latestValues)&&(v.transform=d?d({},
+BeforeLayoutMeasure
+&&navigator.userAgent.toLowerCase().includes(e),of=sf(
+)&&!sf(
+&&!pl(Xd(t),Xd(n),.2)}const A2=r0({attachResizeListener:(e,t)=>yt(e,
+height
+)[t]),cf=(e,t)=>(n,{transform:r})=>{if(r===
+)?1:0))}),t.length&&e.render(),t}const fr={width:({x:e},{paddingLeft:t=
+,paddingRight:n=
+})=>e.max-e.min-parseFloat(t)-parseFloat(n),height:({y:e},{paddingTop:t=
+,paddingBottom:n=
+(prefers-reduced-motion)
+Update
+LayoutAnimationStart
+LayoutAnimationComplete
+always
+renderRequest
+popLayout
+&&r.indexOf(t)===n).join(
+0 0 24 24
+currentColor
+,children:s,iconNode:o,...a},u)=>w.createElement(
+,{ref:u,...dk,width:t,height:t,stroke:e,strokeWidth:r?Number(n)*24/Number(t):n,className:d0(
+,i),...!s&&!fk(a)&&{
+M5 12h14
+1ays0h
+m12 5 7 7-7 7
+xquz4c
+arrow-right
+m5 12 7-7 7 7
+hav0vg
+M12 19V5
+x0mq9r
+arrow-up
+M10.268 21a2 2 0 0 0 3.464 0
+vwvbt9
+M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326
+11g9vi
+M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16
+,height:
+}]],f0=F(
+}]],p0=F(
+}]],jk=F(
+}]],Sk=F(
+}]],Bu=F(
+}]],Pk=F(
+}]],Ek=F(
+}]],Ak=F(
+}]],Lk=F(
+}]],h0=F(
+}]],Vk=F(
+,{width:
+}]],Ok=F(
+}]],zk=F(
+}]],Uk=F(
+,width:
+}]],wl=F(
+}]],Gs=F(
+}]],Gk=F(
+}]],Uu=F(
+}]],Yk=F(
+}]],qk=F(
+}]],Jk=F(
+}]],tj=F(
+}]],rj=F(
+}]],m0=F(
+}]],oj=F(
+}]],lj=F(
+}]],cj=F(
+}]],fj=F(
+,dj),pj=[{title:
+,desc:
+,icon:Ek},{title:
+,icon:Pk},{title:
+,icon:rj},{title:
+,icon:Gk},{title:
+,icon:h0},{title:
+,icon:m0}],hj=()=>l.jsxs(
+,{className:
+,children:[l.jsx(
+,style:{backgroundImage:
+/images/Hero_bg.png
+}}),l.jsx(
+}),l.jsxs(T.div,{initial:{y:30,opacity:0},whileInView:{y:0,opacity:1},transition:{duration:.6},viewport:{once:!0},className:
+,children:
+}),l.jsxs(
+,children:[
+,l.jsx(
+})]}),l.jsx(
+w-14 h-14 flex items-center justify-center rounded-xl bg-primary/10 mb-6 mx-auto
+w-7 h-7 text-primary
+,children:e.title}),l.jsx(
+,children:e.desc})]},t)})})]}),hf=[{image:
+,category:
+,title:
+,link:
+},{image:
+}],mj=[
+Mobile
+flex justify-center flex-wrap gap-4 mb-12
+bg-primary/70 text-white shadow-lg shadow-primary/30 border border-primary/80
+bg-white/5 text-gray-300 border border-white/20 hover:border-primary/50 hover:text-primary backdrop-blur-sm
+grid grid-cols-2 md:grid-cols-3 gap-6
+relative group cursor-pointer
+rounded-2xl object-cover aspect-video w-full transition-transform duration-500 group-hover:scale-110
+absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition rounded-2xl flex items-center justify-center
+text-white font-semibold text-lg
+View Project
+fixed inset-0 bg-black/90 z-[999] flex items-center justify-center cursor-pointer
+w-full h-full object-contain rounded-t-2xl block cursor-default
+absolute top-3 right-3 w-9 h-9 flex items-center justify-center rounded-full bg-primary hover:bg-primary-dark text-white font-bold text-base shadow-lg transition-all duration-200
+,children:i[n].title}),l.jsx(
+})]})]})})})]})},Ve={initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,ease:
+,Hr!==null&&Hr.disconnect(),us!==null&&(window.clearTimeout(us),us=null)}function mf(e){var t=[
+SELECT
+TEXTAREA
+disabled
+,-1),e.focus({preventScroll:!0}),n===null&&!mf(e)&&(e.blur(),e.removeAttribute(
+)),$u(),!0}return!1}function bj(e){window.setTimeout(function(){gf()===!1&&(Hr===null&&(Hr=new MutationObserver(gf)),Hr.observe(document,{attributes:!0,childList:!0,subtree:!0}),us=window.setTimeout(function(){$u()},e||1e4))},0)}function w0(e){return rr.forwardRef(function(t,n){var r=
+&&t.to.includes(
++t.to.split(
+).slice(1).join(
+):typeof t.to==
+&&typeof t.to.hash==
++t.elementId:r,t.onClick&&t.onClick(a),nr!==
+&&!a.defaultPrevented&&a.button===0&&(!t.target||t.target===
+)&&!(a.metaKey||a.altKey||a.ctrlKey||a.shiftKey)&&(v0=t.scroll||function(u){return t.smooth?u.scrollIntoView({behavior:
+}):u.scrollIntoView()},bj(t.timeout))}var o=jj(t,[
+smooth
+timeout
+elementId
+Projects Delivered
+Happy Clients
+,label:
+/images/Final_hero.png
+,willChange:
+flex flex-1 flex-col gap-5 text-center lg:text-left lg:pl-8
+,style:{fontSize:
+,fontFamily:
+,letterSpacing:
+},children:[
+]}),l.jsx(
+,lineHeight:
+},children:
+}),l.jsx(
+,children:Cj.map((r,i)=>l.jsxs(
+,children:i===0?l.jsx(
+}):l.jsx(
+})}),l.jsxs(
+},children:[l.jsx(
+,children:r.value}),r.label]})]},r.label))}),l.jsxs(
+,children:[l.jsx(ce,{to:
+,className:
+}),l.jsxs(Sj,{to:
+,children:l.jsx(
+]})]})]}),l.jsx(T.div,{className:
+,initial:t.initial,animate:t.animated,transition:t.transition,children:l.jsxs(
+,children:[l.jsx(T.img,{src:
+,initial:n.initial,animate:n.animated,transition:n.transition}),l.jsx(
+})]})]})})]})]})},Tj=()=>l.jsxs(
+,children:l.jsxs(
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,ease:[.22,1,.36,1]},viewport:{once:!0,margin:
+,children:[l.jsxs(
+,{children:[l.jsx(
+})]}),l.jsx(ce,{to:
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:.15,ease:[.22,1,.36,1]},viewport:{once:!0,margin:
+},className:
+,{src:
+})]})]})})]}),Ej=[{number:
+},{number:
+}],Mj=()=>l.jsxs(
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.8},viewport:{once:!0},className:
+,children:Ej.map((e,t)=>l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:t*.1},viewport:{once:!0},className:
+,children:e.number}),l.jsx(
+,children:e.desc}),l.jsx(
+})]},e.title))})]})]}),Aj=[{icon:l.jsx(zk,{className:
+}),title:
+},{icon:l.jsx(qk,{className:
+},{icon:l.jsx(tj,{className:
+}],Rj=()=>l.jsxs(
+/images/brown_bg.png
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7},viewport:{once:!0},children:[l.jsx(
+,children:Aj.map((e,t)=>l.jsxs(T.div,{initial:{opacity:0,x:-20},whileInView:{opacity:1,x:0},transition:{duration:.5,delay:t*.1},viewport:{once:!0},className:
+,{className:`flex items-center justify-center w-14 h-14 rounded-full shrink-0\r
+                  border-2 border-primary bg-black/50 shadow-lg shadow-primary/40`,children:e.icon}),l.jsxs(
+,children:e.desc})]})]},e.title))})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7,delay:.15},viewport:{once:!0},className:
+,{className:`absolute -top-6 -right-4 md:-right-8\r
+            bg-black/80 backdrop-blur-sm\r
+            border-2 border-primary\r
+            shadow-lg shadow-primary/40\r
+            rounded-2xl p-5 w-56`,children:l.jsxs(
+,{className:`flex items-center justify-center w-14 h-14 rounded-full\r
+                border-2 border-primary text-xl font-bold text-primary bg-primary/10 shrink-0`,children:
+})]})]})})]})]})]}),Lj={hidden:{},show:{transition:{staggerChildren:.15,delayChildren:.2}}},Gi={hidden:{opacity:0,y:30},show:{opacity:1,y:0,transition:{duration:.6,ease:[.22,1,.36,1]}}},_j=[{icon:Bu,value:
+,label:`Years
+Experience`},{icon:f0,value:
+,label:`Projects
+Delivered`},{icon:oj,value:
+,label:`Happy
+Clients`},{icon:Vk,value:
+}],Ij=()=>l.jsxs(
+,children:[l.jsx(T.div,{initial:{opacity:0,x:-30},whileInView:{opacity:1,x:0},transition:{duration:.8,ease:[.22,1,.36,1]},viewport:{once:!0},className:
+})}),l.jsx(T.div,{variants:Lj,initial:
+,whileInView:
+,viewport:{once:!0},className:
+,children:[l.jsx(T.p,{variants:Gi,className:
+}),l.jsxs(T.h2,{variants:Gi,className:
+})]}),l.jsx(T.p,{variants:Gi,className:
+}),l.jsx(T.div,{variants:Gi,className:
+,stiffness:200},className:`flex flex-col items-center text-center gap-3 p-5 rounded-2xl\r
+                      border border-primary/50 bg-black/40 backdrop-blur-sm\r
+                      shadow-lg shadow-primary/20 cursor-default`,children:[l.jsx(n,{className:
+,children:e.value}),l.jsx(
+,children:e.label})]},t)})})]})})]})]}),Vj=[{name:
+,price:
+,icon:m0,badge:null,badgeColor:
+,borderColor:
+,glowColor:
+,iconBg:
+,btnClass:
+,includes:[
+Static Website (Home, About, Services, Contact)
+Mobile Responsive Design
+PWA Install Option
+Contact Form
+Basic SEO Setup
+1 Year Hosting Included
+Business PWA
+₹50,000
+Most Popular ⭐
+bg-primary text-white
+border-primary
+shadow-primary/50
+bg-primary/20 text-primary
+bg-primary hover:text-black text-white
+Best for: Growing businesses
+Dynamic Website
+OTP Login
+PWA Install
+Push Notifications
+Firebase Database Integration
+Authentication (Login / Admin)
+Premium PWA
+₹1,00,000+
+Premium 💎
+bg-yellow-500 text-black
+border-yellow-500/60
+shadow-yellow-500/30
+bg-yellow-500/10 text-yellow-400
+bg-yellow-500/20 hover:bg-yellow-500 text-yellow-400 hover:text-black border border-yellow-500
+Best for: Serious / revenue businesses
+Custom PWA Application
+Full Admin Dashboard
+Payment Gateway Integration
+Booking / Order System
+User Accounts
+API Integrations
+Performance Optimization
+Hosting + Free 2 Months Maintenance
+section
+relative w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] overflow-hidden py-28
+absolute inset-0 bg-cover bg-center bg-no-repeat
+,children:[l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6},viewport:{once:!0},className:
+flex items-center gap-4 mb-5
+w-6 h-6
+,children:e.name})]}),l.jsxs(
+,children:e.price}),l.jsx(
+,children:e.includes.map(r=>l.jsxs(
+,children:[l.jsx(p0,{className:
+}),r]},r))}),l.jsx(T.div,{whileHover:{scale:1.04},whileTap:{scale:.97},children:l.jsx(ce,{to:
+,className:`w-full inline-block text-center py-3.5 rounded-2xl font-semibold text-sm transition-all duration-300 ${e.btnClass}`,children:
+})})]},e.name)})})]})]}),Oj=[{q:
+,a:null,table:{headers:[
+Mobile App
+Development Cost
+Very high
+Affordable
+Play Store approval
+Required
+Not required
+Works on all devices
+Separate apps needed
+One solution everywhere
+Comparison
+Can customers install it like an app?
+Yes. When customers open the website on their mobile browser, they will see an 
+ option. Once installed, it works exactly like a mobile app with its own icon on the home screen.
+Features
+What features can be included?
+Business information
+Product or service listing
+Contact and WhatsApp button
+Google Maps location
+Booking or enquiry form
+Push notifications
+What services does Merlux Software Solutions provide?
+Business website development
+PWA mobile app experience
+Hosting and domain support
+Maintenance and updates
+Services
+What is the cost?
+Our basic package starts from ₹19,999 — includes Website + PWA + Hosting. Pricing depends on the features required.
+Website + PWA + Hosting starting from ₹19,999
+Pricing
+How long does development take?
+Usually 5–10 working days, depending on the project complexity and the features included in your package.
+Timeline
+Will it work on Android and iPhone?
+Yes. A PWA works seamlessly on Android, iPhone, tablets, and desktop browsers — one solution that works everywhere without separate apps.
+Compatibility
+How can I get started?
+Contact us for a free demo or consultation. We are happy to guide you through the right package for your business needs.
+Contact
+bg-teal-500/10 text-teal-400
+bg-primary/10 text-primary
+bg-blue-500/10 text-blue-400
+bg-purple-500/10 text-purple-400
+bg-orange-500/10 text-orange-400
+bg-green-500/10 text-green-400
+bg-pink-500/10 text-pink-400
+bg-neutral-900 border-primary shadow-lg shadow-primary/30
+bg-neutral-900/80 border-primary/20 hover:border-primary/50 shadow-sm shadow-primary/10
+w-full flex items-center justify-between gap-4 px-6 py-5 text-left
+flex items-center gap-4 flex-1 min-w-0
+text-xs font-bold text-neutral-600 w-5 shrink-0
+)}),l.jsx(
+,{className:`hidden sm:inline-block text-[10px] font-semibold px-2.5 py-1 rounded-full shrink-0 ${Fj[e.tag]??
+}`,children:e.tag}),l.jsx(
+,{className:`font-semibold text-sm md:text-base transition-colors duration-150 ${n?
+text-gray-300 group-hover:text-white
+bg-neutral-800 text-neutral-400 group-hover:bg-neutral-700
+w-4 h-4
+px-6 pb-6 pl-[3.75rem] space-y-4
+,children:e.a}),e.highlight&&l.jsx(
+,children:e.highlight})}),e.list&&l.jsx(
+,children:e.list.map(i=>l.jsxs(
+}),i]},i))}),e.table&&l.jsx(
+,{children:l.jsx(
+,{children:e.table.headers.map(i=>l.jsx(
+,children:i},i))})}),l.jsx(
+,{children:e.table.rows.map((i,s)=>l.jsx(
+,children:i.map((o,a)=>l.jsx(
+,{className:`py-3 pr-6 text-sm
+                                ${a===0?
+}
+                                ${a===1?
+}
+                                ${a===2?
+}
+                              `,children:o},a))},s))})]})})]})},
+,children:Oj.map((r,i)=>l.jsx(zj,{item:r,index:i,isOpen:e===i,onToggle:()=>n(i)},i))}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.7,delay:.2},viewport:{once:!0},className:
+re happy to help you get started.
+flex flex-col sm:flex-row items-center gap-4 shrink-0
+,{href:
+,children:[l.jsx(Uu,{className:
+]}),l.jsxs(
+,target:
+,children:[l.jsx(h0,{className:
+]})]})]})]})]})},Uj=[{name:
+,period:
+,badge:null,description:
+2 GB SSD Storage
+Free SSL
+2 Business Emails
+Business
+/month
+Most Popular
+1 Website
+5 GB SSD Storage
+10 Business Emails
+10 Databases
+Cpanel access
+Premium
+Best for: Serious / revenue-generating businesses
+10 GB SSD Storage
+Unlimited Emails
+Unlimited Databases
+Cpanel Access
+Free Static Website Setup
+border-primary shadow-xl shadow-primary/40
+border-primary/40 shadow-lg shadow-primary/20 hover:border-primary/70 hover:shadow-primary/35
+,children:e.name}),l.jsxs(
+,children:e.period})]}),l.jsx(
+,children:e.includes.map((n,r)=>l.jsxs(
+,children:n})]},r))}),l.jsx(T.div,{whileHover:{scale:1.04},whileTap:{scale:.97},children:l.jsx(ce,{to:
+,className:`w-full inline-block text-center py-3.5 rounded-2xl font-semibold text-sm transition-all duration-300
+                      ${e.highlight?
+bg-primary/15 hover:bg-primary text-primary hover:text-white border border-primary/50 hover:border-primary
+Get Started
+flex flex-col gap-24 overflow-hidden
+px-3 md:px-10 lg:px-20 flex flex-col gap-24
+relative w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] py-28 overflow-hidden
+}),l.jsxs(T.div,{...Ve,className:
+ve crafted for startups and enterprises.
+stroke
+brand-angular
+IconBrandAngular
+M5.428 17.245l6.076 3.471a1 1 0 0 0 .992 0l6.076 -3.471a1 1 0 0 0 .495 -.734l1.323 -9.704a1 1 0 0 0 -.658 -1.078l-7.4 -2.612a1 1 0 0 0 -.665 0l-7.399 2.613a1 1 0 0 0 -.658 1.078l1.323 9.704a1 1 0 0 0 .495 .734z
+M9 15l3 -8l3 8
+M10 13h4
+brand-aws
+IconBrandAws
+M17 18.5a15.198 15.198 0 0 1 -7.37 1.44a14.62 14.62 0 0 1 -6.63 -2.94
+M19.5 21c.907 -1.411 1.451 -3.323 1.5 -5c-1.197 -.773 -2.577 -.935 -4 -1
+M3 11v-4.5a1.5 1.5 0 0 1 3 0v4.5
+M3 9h3
+M9 5l1.2 6l1.8 -4l1.8 4l1.2 -6
+M18 10.25c0 .414 .336 .75 .75 .75h1.25a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-1a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1h1.25a.75 .75 0 0 1 .75 .75
+brand-figma
+IconBrandFigma
+M15 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0
+M6 3m0 3a3 3 0 0 1 3 -3h6a3 3 0 0 1 3 3v0a3 3 0 0 1 -3 3h-6a3 3 0 0 1 -3 -3z
+M9 9a3 3 0 0 0 0 6h3m-3 0a3 3 0 1 0 3 3v-15
+brand-firebase
+IconBrandFirebase
+M4.53 17.05l6.15 -11.72h-.02c.38 -.74 1.28 -1.02 2.01 -.63c.26 .14 .48 .36 .62 .62l1.06 2.01
+M15.47 6.45c.58 -.59 1.53 -.59 2.11 -.01c.22 .22 .36 .5 .41 .81l1.5 9.11c.1 .62 -.2 1.24 -.76 1.54l-6.07 2.9c-.46 .25 -1.01 .26 -1.46 0l-6.02 -2.92c-.55 -.31 -.85 -.92 -.75 -1.54l1.96 -12.04c.12 -.82 .89 -1.38 1.7 -1.25c.46 .07 .87 .36 1.09 .77l1.24 1.76
+M4.57 17.18l10.93 -10.68
+brand-git
+IconBrandGit
+M16 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0
+M12 8m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0
+M12 16m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0
+M12 15v-6
+M15 11l-2 -2
+M11 7l-1.9 -1.9
+M13.446 2.6l7.955 7.954a2.045 2.045 0 0 1 0 2.892l-7.955 7.955a2.045 2.045 0 0 1 -2.892 0l-7.955 -7.955a2.045 2.045 0 0 1 0 -2.892l7.955 -7.955a2.045 2.045 0 0 1 2.892 0z
+brand-google
+IconBrandGoogle
+M17.788 5.108a9 9 0 1 0 3.212 6.892h-8
+brand-instagram
+IconBrandInstagram
+M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z
+M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0
+M16.5 7.5l0 .01
+brand-javascript
+IconBrandJavascript
+M20 4l-2 14.5l-6 2l-6 -2l-2 -14.5z
+M7.5 8h3v8l-2 -1
+M16.5 8h-2.5a.5 .5 0 0 0 -.5 .5v3a.5 .5 0 0 0 .5 .5h1.423a.5 .5 0 0 1 .495 .57l-.418 2.93l-2 .5
+brand-linkedin
+IconBrandLinkedin
+M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z
+M8 11l0 5
+M8 8l0 .01
+M12 16l0 -5
+M16 16v-3a2 2 0 0 0 -4 0
+brand-mongodb
+IconBrandMongodb
+M12 3v19
+M18 11.227c0 3.273 -1.812 4.77 -6 9.273c-4.188 -4.503 -6 -6 -6 -9.273c0 -4.454 3.071 -6.927 6 -9.227c2.929 2.3 6 4.773 6 9.227z
+brand-nodejs
+IconBrandNodejs
+M9 9v8.044a2 2 0 0 1 -2.996 1.734l-1.568 -.9a3 3 0 0 1 -1.436 -2.561v-6.635a3 3 0 0 1 1.436 -2.56l6 -3.667a3 3 0 0 1 3.128 0l6 3.667a3 3 0 0 1 1.436 2.561v6.634a3 3 0 0 1 -1.436 2.56l-6 3.667a3 3 0 0 1 -3.128 0
+M17 9h-3.5a1.5 1.5 0 0 0 0 3h2a1.5 1.5 0 0 1 0 3h-3.5
+brand-typescript
+IconBrandTypescript
+M15 17.5c.32 .32 .754 .5 1.207 .5h.543c.69 0 1.25 -.56 1.25 -1.25v-.25a1.5 1.5 0 0 0 -1.5 -1.5a1.5 1.5 0 0 1 -1.5 -1.5v-.25c0 -.69 .56 -1.25 1.25 -1.25h.543c.453 0 .887 .18 1.207 .5
+M9 12h4
+M11 12v6
+M21 19v-14a2 2 0 0 0 -2 -2h-14a2 2 0 0 0 -2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2 -2z
+brand-whatsapp
+IconBrandWhatsapp
+M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9
+M9 10a.5 .5 0 0 0 1 0v-1a.5 .5 0 0 0 -1 0v1a5 5 0 0 0 5 5h1a.5 .5 0 0 0 0 -1h-1a.5 .5 0 0 0 0 1
+device-mobile-check
+IconDeviceMobileCheck
+M11.5 21h-3.5a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v9.5
+M11 4h2
+M12 17v.01
+M15 19l2 2l4 -4
+device-mobile
+IconDeviceMobile
+M6 5a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-14z
+menu-2
+IconMenu2
+M4 6l16 0
+M4 12l16 0
+M4 18l16 0
+IconSql
+M12 8a2 2 0 0 1 2 2v4a2 2 0 1 1 -4 0v-4a2 2 0 0 1 2 -2z
+M17 8v8h4
+M13 15l1 1
+M3 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-2a1 1 0 0 1 -1 -1v-2a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1
+M18 6l-12 12
+M6 6l12 12
+fixed inset-0 bg-black z-40
+fixed top-0 right-0 w-72 h-full bg-black/90 backdrop-blur-lg shadow-xl z-50 p-6 flex flex-col
+flex justify-end mb-8
+cursor-pointer w-7 h-7 text-gray-700
+flex flex-col gap-6
+text-lg font-medium text-primary hover:text-teal-400 transition
+About Us
+/about
+Technologies
+/technologies
+/contact
+py-3 bg-black/90 backdrop-blur-lg shadow-lg
+py-5 bg-transparent
+,className:`object-contain transition-all duration-500
+              ${n?
+h-[5rem]
+font-black tracking-widest text-xs sm:text-sm md:text-lg bg-gradient-to-r from-[#3cff00] via-[#22c55e] to-[#facc15] bg-clip-text text-transparent group-hover:brightness-125 transition
+MERLUX SOFTWARE SOLUTIONS
+hidden lg:flex items-center gap-8
+inline-flex items-center gap-2 bg-primary hover:text-black text-white px-5 py-2.5 rounded-full font-semibold text-sm transition-all duration-200 shadow-lg shadow-primary/30 group
+Get Free Consultation
+w-4 h-4 transition-transform duration-200 group-hover:translate-x-1
+lg:hidden cursor-pointer w-8 h-8 text-white
++n.slice(1):n})`,backgroundSize:
+,backgroundPosition:
+,children:[t&&l.jsx(
+,children:t}),l.jsx(
+,children:e})]})]}),yb=[{year:
+},{year:
+s Next
+We are focused on helping more Indian startups and SMEs go digital — with affordable, world-class web, mobile, and PWA solutions.
+Our Story
+/images/abstract-digital-grid-black-background.jpg
+overflow-hidden
+bg-white py-24 px-6 lg:px-20
+max-w-7xl mx-auto grid lg:grid-cols-2 gap-20 items-center
+space-y-6
+,{}),l.jsx(
+}),l.jsx(ce,{to:
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8,ease:[.22,1,.36,1]},viewport:{once:!0},className:
+,loading:
+})]})]})]})}),l.jsxs(
+,children:[l.jsxs(T.div,{...Ve,className:
+})]}),l.jsxs(
+,children:yb.map((t,n)=>l.jsxs(T.div,{initial:{opacity:0,x:-30},whileInView:{opacity:1,x:0},transition:{duration:.5,delay:n*.08},viewport:{once:!0},className:
+,{className:`w-14 h-14 rounded-full flex items-center justify-center text-xs font-extrabold border-2 transition-all duration-300
+                        ${t.isCurrent?
+bg-black/60 border-primary/40 text-primary group-hover:border-primary group-hover:shadow-md group-hover:shadow-primary/20
+bg-primary/10 border-primary/50 shadow-lg shadow-primary/20
+bg-white/5 border-white/10 group-hover:border-primary/40 group-hover:bg-white/8
+flex items-center gap-3 mb-2
+text-[10px] font-bold px-2 py-0.5 rounded-full bg-primary text-white uppercase tracking-wider
+,{className:`font-bold text-lg ${t.isCurrent?
+text-white
+,children:t.desc})]})]},t.year))})]})]})]}),l.jsxs(
+})]}),l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:.12},viewport:{once:!0},className:
+re Going
+})]})]})]}),l.jsx(
+,children:l.jsxs(T.div,{...Ve,className:
+s build something
+d love to hear about it.
+inline-flex items-center gap-2 bg-primary hover:text-black text-white px-8 py-4 rounded-xl font-semibold transition-all duration-200 shadow-lg shadow-primary/20
+Start a Conversation
+Frontend & Mobile
+Angular
+w-8 h-8
+TypeScript
+JavaScript
+Backend & Database
+primary
+Node.js
+Firebase
+MongoDB
+Cloud & DevOps
+Google Cloud
+Design & Collaboration
+purple
+bg-teal-50 border-teal-200
+text-teal-500
+bg-teal-500
+bg-primary/5 border-primary/20
+text-primary
+bg-primary
+bg-blue-50 border-blue-200
+text-blue-500
+bg-blue-500
+bg-purple-50 border-purple-200
+text-purple-500
+bg-purple-500
+max-w-6xl mx-auto px-6 space-y-8
+flex items-center gap-4
+,children:e}),l.jsx(
+,children:[n.length,
+]})]}),l.jsx(
+font-semibold text-dark text-sm
+Homepage / Technologies
+py-32 space-y-32
+max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center
+Scalable Node.js & Firebase backends
+Progressive Web Apps (PWA)
+Cloud deployments on AWS & Google Cloud
+})}),t]},t))}),l.jsxs(ce,{to:
+,l.jsx(ft,{className:
+})]})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+})]})]}),l.jsxs(
+,children:[l.jsxs(T.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+})]}),l.jsxs(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.8},viewport:{once:!0},className:
+Cloud-native architectures
+Secure & reliable solutions
+Web, Mobile & PWA
+Fast delivery & iterations
+Open-source first approach
+}),t]},t))})]})]}),l.jsxs(
+,children:[l.jsx(vf,{...Ki[0],index:0}),l.jsx(vf,{...Ki[1],index:1})]}),l.jsx(
+,children:[Ki[2],Ki[3]].map((t,n)=>l.jsxs(T.div,{initial:{opacity:0,y:40},whileInView:{opacity:1,y:0},transition:{duration:.6,delay:n*.1},viewport:{once:!0},className:
+,{className:`w-3 h-3 rounded-full shrink-0 ${jl[t.color].dot}`}),l.jsx(
+,children:t.title}),l.jsx(
+,children:[t.items.length,
+font-semibold text-white text-sm
+max-w-3xl mx-auto px-6 text-center
+s talk about the right technology stack for your business. We
+}),l.jsxs(ce,{to:
+})]})]})]})]})},wb=[{id:1,icon:l.jsx(ub,{className:
+}),name:
+,description:
+},{id:2,icon:l.jsx(db,{className:
+},{id:3,icon:l.jsx(sb,{className:
+},{id:4,icon:l.jsx(rb,{className:
+}],kb=[{city:
+,badge:
+,badgeColor:
+,address:
+,mapUrl:
+},{city:
+}],Qi=({icon:e,title:t,value:n,href:r})=>l.jsxs(
+,children:e}),l.jsxs(
+,children:t}),r?l.jsx(
+,{href:r,className:
+,children:n}):l.jsx(
+,children:n})]})]}),jb=({icon:e,name:t,description:n,link:r})=>l.jsxs(T.div,{initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.5},viewport:{once:!0},whileHover:{scale:1.02,boxShadow:
+,children:n}),l.jsxs(
+,{href:r,target:
+,children:l.jsx(Jk,{className:
+})}),l.jsx(
+ll reply within 24 hours.
+text-primary text-sm hover:underline mt-2
+Send another message
+space-y-4
+,{onSubmit:n,className:
+,{required:!0,className:
+,placeholder:
+,{required:!0,type:
+,{value:
+,{children:
+}),l.jsxs(T.button,{type:
+,whileHover:{scale:1.02},whileTap:{scale:.97},className:
+,subtitle:
+,backgroundImage:
+}),l.jsxs(T.div,{initial:e.initial,animate:e.animated,transition:e.transition,className:
+d love to hear from you. Our team in Nagercoil & Chennai is ready to help you build something that scales.
+flex flex-col sm:flex-row gap-3 pt-2
+mailto:contact@merluxsolutions.com
+inline-flex items-center gap-2 px-6 py-3 bg-primary hover:text-black text-white rounded-xl font-semibold text-sm transition-all duration-200 group
+Email Now
+https://wa.me/918760816813
+_blank
+noopener noreferrer
+inline-flex items-center gap-2 px-6 py-3 bg-green-500 hover:text-black text-white rounded-xl font-semibold text-sm transition-all duration-200
+WhatsApp Us
+/images/about-us.jpg
+Merlux team
+rounded-2xl object-cover w-full h-[300px] lg:h-[360px] shadow-xl
+absolute -bottom-5 -left-5 bg-white rounded-2xl shadow-xl px-5 py-3 hidden md:block
+})]})]})]})}),l.jsx(
+,children:[l.jsx(T.div,{initial:{opacity:0,x:-40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},children:l.jsx(bb,{})}),l.jsx(T.div,{initial:{opacity:0,x:40},whileInView:{opacity:1,x:0},transition:{duration:.7},viewport:{once:!0},className:
+re friendly, responsive, and always happy to discuss new ideas.
+w-5 h-5 text-primary
+Where to find us
+Nagercoil & Chennai, Tamil Nadu, India
+Write email
+contact@merluxsolutions.com
+Have any question?
++91 8825411046
+tel:8825411046
+Business hours
+Mon - Fri 9 AM - 6 PM · Sat 9 AM - 5 PM IST
+bg-neutral-950 px-6 lg:px-12 py-20
+max-w-7xl mx-auto
+,children:kb.map((t,n)=>l.jsxs(T.a,{href:t.mapUrl,target:
+,initial:{opacity:0,y:30},whileInView:{opacity:1,y:0},transition:{duration:.5,delay:n*.1},viewport:{once:!0},whileHover:{y:-4},className:
+,children:t.city}),l.jsx(
+,{className:`text-[10px] font-semibold px-2.5 py-0.5 rounded-full ${t.badgeColor}`,children:t.badge})]}),l.jsx(ft,{className:
+,children:[l.jsx(Gs,{className:
+,children:t.address})]})]},t.city))})]})}),l.jsx(
+,children:[l.jsxs(T.div,{...Ve,children:[l.jsx(
+,children:wb.map(t=>l.jsx(jb,{...t},t.id))})]})})]})]})},ua=[],Nb=[{emoji:
+},{emoji:
+bg-neutral-900 border-neutral-800 hover:border-neutral-600
+w-full text-left px-7 py-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4
+flex flex-col gap-2
+,children:e.title}),l.jsxs(
+,children:[l.jsx(f0,{className:
+}),e.type]}),l.jsxs(
+}),e.mode]}),l.jsxs(
+,children:[l.jsx(Bu,{className:
+}),e.experience]})]})]}),l.jsx(
+,{className:`shrink-0 w-9 h-9 rounded-full flex items-center justify-center transition-colors duration-150
+          ${n?
+bg-neutral-800 text-neutral-400
+px-7 pb-8 space-y-6 border-t border-neutral-800
+,children:e.description}),l.jsxs(
+,children:e.responsibilities.map(i=>l.jsxs(
+}),i]},i))})]}),l.jsxs(
+,children:e.requirements.map(i=>l.jsxs(
+}),i]},i))})]})]}),l.jsxs(
+,{href:`mailto:contact@merluxsolutions.com?subject=Application for ${e.title}`,className:
+,l.jsxs(
+,{children:[
+,e.title]})]})]})]})]})},Pb=()=>l.jsxs(T.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.5},viewport:{once:!0},className:
+,children:l.jsx(xk,{className:
+t have any active positions at the moment, but we are always growing. Drop us your resume and we
+}),l.jsxs(T.section,{initial:e.initial,animate:e.animated,transition:e.transition,className:
+re Hiring
+ll fit right in.
+max-w-5xl mx-auto
+text-2xl font-extrabold text-dark text-center mb-10
+Why Work at 
+Merlux?
+grid grid-cols-2 md:grid-cols-3 gap-5
+bg-neutral-900 border border-neutral-800 hover:border-primary rounded-2xl p-6 transition-colors duration-200
+text-3xl mb-3
+,children:t.desc})]},t.title))})]}),l.jsxs(
+})]})]}),ua.length>0?l.jsx(
+,children:ua.map((t,n)=>l.jsx(Cb,{job:t,index:n},t.id))}):l.jsx(Pb,{})]}),ua.length>0&&l.jsxs(T.div,{...Ve,className:
+t see your role?
+d love to hear from you.
+})]})]})]})]})},Eb=()=>l.jsxs(
+,children:[{icon:Ok,href:
+},{icon:Uk,href:
+},{icon:Ak,href:
+},{icon:cj,href:
+},{icon:Lk,href:
+}].map(({icon:e,href:t,label:n})=>l.jsx(
+,{href:t,target:
+aria-label
+w-9 h-9 rounded-full bg-white/10 hover:bg-primary border border-white/10 hover:border-primary flex items-center justify-center transition-all duration-200
+w-4 h-4 text-white
+Mobile Applications
+Cloud & Backend
+UI / UX Design
+Maintenance & Support
+,children:e},e))})]}),l.jsxs(
+,children:[{label:
+,path:
+},{label:
+}].map(e=>l.jsx(
+,{children:l.jsx(ce,{to:e.path,className:`relative font-semibold text-sm \r
+  bg-gradient-to-r from-green-400 to-yellow-400 \r
+  bg-clip-text text-transparent \r
+  opacity-80 hover:opacity-100 \r
+  transition duration-300 group`,children:e.label})},e.path))})]}),l.jsxs(
+,{children:l.jsx(ce,{to:e.path,className:
+,children:e.label})},e.label))})]}),l.jsxs(
+,children:[l.jsx(wl,{className:
+})})]})]})]}),l.jsx(
+,new Date().getFullYear(),
+})]})})]})]}),Mb=()=>l.jsxs(
+})}),l.jsx(ce,{to:
+,r),()=>window.removeEventListener(
+w-5 h-5
+instant
+,children:[l.jsx(Rb,{}),l.jsx(Lb,{}),l.jsx(gb,{}),l.jsx(
+,children:l.jsxs(Ox,{children:[l.jsx(cn,{path:
+,element:l.jsx(Wj,{})}),l.jsx(cn,{path:
+,element:l.jsx(xb,{})}),l.jsx(cn,{path:
+,element:l.jsx(vb,{})}),l.jsx(cn,{path:
+,element:l.jsx(Sb,{})}),l.jsx(cn,{path:
+,element:l.jsx(Tb,{})}),l.jsx(cn,{path:
+,element:l.jsx(Mb,{})})]})}),l.jsx(Eb,{}),l.jsx(Ab,{}),
+]})}ca.createRoot(document.getElementById(
+)).render(l.jsx(rr.StrictMode,{children:l.jsx(Wx,{basename:
